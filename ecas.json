@@ -1,0 +1,54 @@
+[
+  {
+    "title": "The Queen’s Commonwealth Essay Competition 2025",
+    "description": "The Queen’s Commonwealth Essay Competition (QCEC) is the world’s oldest international writing competition for schools and has been proudly delivered by the Royal Commonwealth Society since 1883.",
+    "image": "assets/images/QueensCommonwealthEssayCompetition_QCEC.jpg",
+    "deadline": "23-05-2025",
+    "eventDate": "Unknown",
+    "eligibility": "Open to all students aged 18 and under",
+    "tags": ["Essay", "International", "Commonwealth", "Writing", "QCEC", "Queen’s Commonwealth Essay Competition"],
+    "link": "https://www.royalcwsociety.org/essay-competition/qcec2025",
+    "category": "competition",
+    "country": "Multiple (Rotates annually)",
+    "location": "international"
+  },
+  {
+    "title": "Bangladesh Economics Olympiad 2025",
+    "description": "BDEO is an annual national competition on Economics, Financial Literacy, and Business Case Solving for high school (O-Level) and college-level (A-Level) students. The top-performing students will represent Bangladesh at the International Economics Olympiad 2025, Azerbaijan and other prestigious international events. University students can also participate but are only eligible up to national level.",
+    "image": "assets/images/bdeo.png",
+    "deadline": "12-05-2025",
+    "eventDate": "End of May",
+    "eligibility": "High School (O-Level) & College (A-Level) Students; University Students up to national round",
+    "tags": ["Olympiad", "Economics", "Financial Literacy","Business Case Solving", "National", "International"],
+    "link": "https://forms.gle/Mo4RuYNUeRjMTxQp9",
+    "category": "olympiad",
+    "country": "Bangladesh",
+    "location": "local"
+  },
+  {
+    "title": "International Astronomy and Astrophysics Competition 2025",
+    "description": "An International competition on Astronomy and Astrophysics for high school and university students worldwide.",
+    "image": "assets/images/iaac.png",
+    "deadline": "04-07-2025",
+    "eventDate": "Unknown",
+    "eligibility": "High School & University Students Worldwide",
+    "tags": ["Astronomy", "Astrophysics", "IAAC", "International"],
+    "link": "https://www.iaac.space",
+    "category": "competition",
+    "country": "Germany",
+    "location": "international"
+  },
+  {
+    "title": "International Quant Championship 2025",
+    "description": "WorldQuant BRAIN's 2025 International Quant Championship is now open to individuals and teams of 1 to 4 people. Join WorldQuant's flagship quant competition and compete for cash prizes from a pool of $100,000 and the potential to be considered for internships and consultant positions.",
+    "image": "assets/images/iqc.png",
+    "deadline": "-----",
+    "eventDate": "-----",
+    "eligibility": "individuals and teams of 1 to 4 people ",
+    "tags": ["WorldQuant BRAIN", "International Quant Championship","IQC","Quant Championship", "International"],
+    "link": "https://platform.worldquantbrain.com/iqc",
+    "category": "olympiad",
+    "country": "USA",
+    "location": "international"
+  }
+]
