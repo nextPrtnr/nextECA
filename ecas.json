@@ -15,11 +15,11 @@
   {
     "title": "Bangladesh Economics Olympiad 2025",
     "description": "BDEO is an annual national competition on Economics, Financial Literacy, and Business Case Solving for high school (O-Level) and college-level (A-Level) students. The top-performing students will represent Bangladesh at the International Economics Olympiad 2025, Azerbaijan and other prestigious international events. University students can also participate but are only eligible up to national level.",
-    "image": "assets/images/bdeo.png",
+    "image": "assets/images/bdeo.jpg",
     "deadline": "12-05-2025",
     "eventDate": "End of May",
     "eligibility": "High School (O-Level) & College (A-Level) Students; University Students up to national round",
-    "tags": ["Olympiad", "Economics", "Financial Literacy","Business Case Solving", "National", "International"],
+    "tags": ["Olympiad", "Economics", "Financial Literacy", "Business Case Solving", "National", "International"],
     "link": "https://forms.gle/Mo4RuYNUeRjMTxQp9",
     "category": "olympiad",
     "country": "Bangladesh",
@@ -41,7 +41,7 @@
   {
     "title": "International Quant Championship 2025",
     "description": "WorldQuant BRAIN's 2025 International Quant Championship is now open to individuals and teams of 1 to 4 people. Join WorldQuant's flagship quant competition and compete for cash prizes from a pool of $100,000 and the potential to be considered for internships and consultant positions.",
-    "image": "assets/images/iqc.png",
+    "image": "https://www.worldquant.com/wp-content/uploads/2023/03/IQC-Logo-for-Press-Release_1660x1072.png",
     "deadline": "-----",
     "eventDate": "-----",
     "eligibility": "individuals and teams of 1 to 4 people ",
