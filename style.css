@@ -11,30 +11,59 @@ body {
   top: 0;
   z-index: 999;
   background: #111;
-  
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 10px 30px;
+  flex-wrap: wrap;
   box-shadow: 0 2px 6px rgba(252, 252, 251, 0.1);
+}
+
+.navbar .logo {
+  flex: 1;
 }
 
 .navbar .logo img {
   height: 40px;
 }
 
+.menu-toggle {
+  display: none;
+  font-size: 28px;
+  color: white;
+  cursor: pointer;
+}
+
+.nav-menu {
+  display: flex;
+  align-items: center;
+  flex: 2;
+  justify-content: center;
+  gap: 20px;
+}
+
 .nav-links {
   list-style: none;
   display: flex;
   gap: 20px;
+  padding: 0;
+  margin: 0;
 }
 
 .nav-links li a {
   color: #fff;
   text-decoration: none;
 }
-.nav-links li :hover{
+
+.nav-links li :hover {
   color: #d62828;
+}
+
+.nav-buttons {
+  display: flex;
+  gap: 10px;
+  flex: 1;
+  justify-content: flex-end;
 }
 
 .nav-buttons .btn {
@@ -42,7 +71,6 @@ body {
   border-radius: 5px;
   text-decoration: none;
   color: white;
-  margin-left: 10px;
   font-weight: bold;
 }
 
@@ -59,6 +87,7 @@ header {
   padding: 0px;
 }
 
+/* === Cards & Other Sections (Unchanged) === */
 .filters {
   text-align: center;
   margin: 20px;
@@ -102,7 +131,7 @@ header {
 
 .card h3 {
   margin: 10px 0 5px;
-  color:#fcbf49;
+  color: #fcbf49;
 }
 
 .card p {
@@ -164,5 +193,39 @@ footer {
 footer .footer-links img {
   height: 30px;
   margin: 0 10px;
-  
+}
+
+/* ✅ Responsive Navbar Styles */
+@media (max-width: 768px) {
+  .menu-toggle {
+    display: block;
+  }
+
+  .nav-menu {
+    display: none;
+    flex-direction: column;
+    width: 100%;
+    background: #111;
+    text-align: center;
+    padding: 15px 0;
+  }
+
+  .nav-menu.active {
+    display: flex;
+  }
+
+  .nav-links {
+    flex-direction: column;
+    gap: 15px;
+  }
+
+  .nav-buttons {
+    flex-direction: column;
+    margin-top: 10px;
+    align-items: center;
+  }
+
+  .nav-buttons .btn {
+    margin: 5px 0;
+  }
 }
