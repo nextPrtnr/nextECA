@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Learn more about nextECA, an open-source initiative by nextPrtnr to help students discover global and local opportunities.">
+  <meta name="keywords" content="About nextECA, Hackathons, Competitions, Olympiads, nextPrtnr, nextECA">
+  <meta name="author" content="nextPrtnr Team">
+  <title>About | nextECA</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="icon" href="assets/images/favicon.png" />
+</head>
+<body>
+  <nav class="navbar">
+    <div class="logo"><img src="assets/images/nextECA.png" alt="nextECA Logo" /></div>
+
+    <!-- Hamburger Menu -->
+    <div class="menu-toggle" id="menu-toggle">&#9776;</div>
+
+    <!-- Nav Links + Buttons in a wrapper -->
+    <div class="nav-menu" id="nav-menu">
+      <ul class="nav-links">
+        <li><a href="/index.html">Home</a></li>
+        <li><a href="https://www.nextPrtnr.app">nextPrtnr</a></li>
+        <li><a href="/about.html">About</a></li>
+      </ul>
+      <div class="nav-buttons">
+        <a href="https://github.com/nextPrtnr/nextECA/" class="btn red">Open-Source Contribution?</a>
+        <a href="https://www.facebook.com/groups/nexteca" class="btn yellow">Join Community</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- About Content -->
+  <header>
+    <h1>About nextECA</h1>
+    <p>For the Community, By the Community</p>
+  </header>
+
+  <section class="cards">
+    <div class="card">
+      <h3>What is nextECA?</h3>
+      <p>
+        nextECA is a free and open-source platform created by <strong>nextPrtnr</strong> to help students, creators, and changemakers discover local and global opportunities such as hackathons, competitions, olympiads, and more.
+      </p>
+    </div>
+
+    <div class="card">
+      <h3>Why nextECA?</h3>
+      <p>
+        In a world full of amazing opportunities, students often ask, "What’s next?". nextECA solves this by curating and listing quality extra-curricular activities from verified sources, all in one place.
+      </p>
+    </div>
+
+    <div class="card">
+      <h3>Built with ❤️ for Students</h3>
+      <p>
+        Whether you're looking for a challenge to grow your skills or a chance to shine on a national stage, nextECA is your trusted starting point.
+        It’s maintained by a growing open-source community and always open to contributions and feedback.
+      </p>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <div class="footer-links">
+      <a href="https://facebook.com/nextPrtnr/"><img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" /></a>
+      <a href="https://instagram.com/nextPrtnr/"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" /></a>
+      <a href="https://X.com/nextPrtnr/"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" /></a>
+      <a href="https://www.linkedin.com/company/nextPrtnr"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" /></a>
+      <a href="https://github.com/nextPrtnr"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" /></a>
+    </div>
+    <p>nextECA: For The Community, By The Community</p>
+    <p>&copy; 2025 nextPrtnr | All rights reserved</p>
+  </footer>
+
+  <!-- JS for Hamburger -->
+  <script>
+    const toggle = document.getElementById("menu-toggle");
+    const menu = document.getElementById("nav-menu");
+
+    toggle.addEventListener("click", () => {
+      menu.classList.toggle("active");
+    });
+  </script>
+
+</body>
+</html>
