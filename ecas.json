@@ -50,5 +50,18 @@
     "category": "olympiad",
     "country": "USA",
     "location": "international"
+  },
+  {
+    "title": "Agent X",
+    "description": "Agent X is an AI Prompting Competition presented by NetCom Learning and Powered by Microsoft.",
+    "image": "https://agentxbd.com/wp-content/uploads/2024/05/logo-ai-7-dark-top-4.svg",
+    "deadline": "25-05-2025",
+    "eventDate": "unknown",
+    "eligibility": "All University Students",
+    "tags": ["AgentX", "NetCom Learning", "AI", "Ai Prompting Competition", "National", "Microsoft"],
+    "link": "https://agentxbd.com/",
+    "category": "competition",
+    "country": "Bangladesh",
+    "location": "local"
   }
 ]
