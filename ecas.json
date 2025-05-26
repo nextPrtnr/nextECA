@@ -1,16 +1,16 @@
 [
   {
-    "title": "The Queen’s Commonwealth Essay Competition 2025",
-    "description": "The Queen’s Commonwealth Essay Competition (QCEC) is the world’s oldest international writing competition for schools and has been proudly delivered by the Royal Commonwealth Society since 1883.",
-    "image": "assets/images/QueensCommonwealthEssayCompetition_QCEC.jpg",
-    "deadline": "23-05-2025",
-    "eventDate": "Unknown",
-    "eligibility": "Open to all students aged 18 and under",
-    "tags": ["Essay", "International", "Commonwealth", "Writing", "QCEC", "Queen’s Commonwealth Essay Competition"],
-    "link": "https://www.royalcwsociety.org/essay-competition/qcec2025",
+    "title": "bdapps Innovation Summit 2025",
+    "description": "bdapps Innovation Summit 2025 is not just about ideas — it’s about rewarding innovation that can shape Bangladesh’s digital future. Whether you're aiming for the top or breaking into the top 10, there’s a prize waiting for you. Turn your app idea into impact — and income!",
+    "image": "https://bdappsinnovationsummit.com/img/Dark-Background.png",
+    "deadline": "31-05-2025",
+    "eventDate": "19-06-2025",
+    "eligibility": "open to all Bangladeshi citizens",
+    "tags": ["bdapps", "National", "bdapps Innovation Summit 2025", "Idea Pitching Competition", "Apps", "App Developers"],
+    "link": "https://bdappsinnovationsummit.com/",
     "category": "competition",
-    "country": "Multiple (Rotates annually)",
-    "location": "international"
+    "country": "Bangladesh",
+    "location": "local"
   },
   {
     "title": "Bangladesh Economics Olympiad 2025",
