@@ -13,6 +13,19 @@
     "location": "local"
   },
   {
+    "title": "General Knowledge Olympiad",
+    "description": "General knowledge forms the cornerstone of an informed and successful career. In a rapidly evolving world where education, innovation, technology, and information are continuously transforming remaining well informed is not just valuable, but essential. To foster intellectual growth and empower the next generation of leaders. Buniad is proud to introduce the General Knowledge Olympiad a prestigious national level competition designed to celebrate academic excellence and awareness.",
+    "image": "assets/images/GKO_nextECA.png",
+    "deadline": " ",
+    "eventDate": "18 October 2025",
+    "eligibility": "Anyone from Bangladesh",
+    "tags": ["GKO", "National", "General Knowledge Olympiad", "Buniad", "GKO25", "Olympiad", "General Knowledge"],
+    "link": "https://gko.buniad.com/",
+    "category": "olympiad",
+    "country": "Bangladesh",
+    "location": "local"
+  },
+  {
     "title": "bdapps Innovation Summit 2025",
     "description": "bdapps Innovation Summit 2025 is not just about ideas — it’s about rewarding innovation that can shape Bangladesh’s digital future. Whether you're aiming for the top or breaking into the top 10, there’s a prize waiting for you. Turn your app idea into impact — and income!",
     "image": "https://bdappsinnovationsummit.com/img/Dark-Background.png",
@@ -78,4 +91,5 @@
     "location": "local"
   }
 ]
+
 
