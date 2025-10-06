@@ -3,13 +3,71 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="description" content=" Find global and local opportunities like hackathons, competitions, and olympiads with nextECA, an open-source platform by nextPrtnr.">
+  <!-- Primary Meta Tags -->
+  <title>nextECA | Find The Next Opportunity</title>
+  <meta name="description" content="Find global and local opportunities like hackathons, competitions, and olympiads with nextECA, an open-source platform by nextPrtnr.">
   <meta name="keywords" content="Hackathon, Competitions, Olympiad, Student, Events, Global, Local, nextPrtnr, nextECA">
   <meta name="author" content="nextPrtnr Team">
-  <title>nextECA | Find The Next Opportunity</title>
+
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://eca.nextprtnr.app/" />
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="nextECA | Find The Next Opportunity">
+  <meta property="og:description" content="Discover hackathons, competitions, and olympiads worldwide. Open-source by nextPrtnr.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://eca.nextprtnr.app/">
+  <meta property="og:image" content="https://eca.nextprtnr.app/assets/images/nextECA.png">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="nextECA | Find The Next Opportunity">
+  <meta name="twitter:description" content="Discover hackathons, competitions, and olympiads worldwide. Open-source by nextPrtnr.">
+  <meta name="twitter:image" content="https://eca.nextprtnr.app/assets/images/nextECA.png">
+
+  <!-- Favicon -->
+  <link rel="icon" href="/assets/images/favicon.png" />
+
+  <!-- Stylesheet -->
   <link rel="stylesheet" href="style.css" />
-  <link rel="icon" href="assets/images/favicon.png" />
+
+  <!-- JSON-LD structured data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://eca.nextprtnr.app/#organization",
+        "name": "nextPrtnr",
+        "url": "https://eca.nextprtnr.app/",
+        "logo": "https://eca.nextprtnr.app/assets/images/nextECA.png",
+        "sameAs": [
+          "https://facebook.com/nextPrtnr/",
+          "https://instagram.com/nextPrtnr/",
+          "https://twitter.com/nextPrtnr/",
+          "https://www.linkedin.com/company/nextPrtnr",
+          "https://github.com/nextPrtnr"
+        ]
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://eca.nextprtnr.app/#website",
+        "url": "https://eca.nextprtnr.app/",
+        "name": "nextECA",
+        "description": "Find global and local opportunities like hackathons, competitions, and olympiads with nextECA, an open-source platform by nextPrtnr.",
+        "publisher": { "@id": "https://eca.nextprtnr.app/#organization" },
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://eca.nextprtnr.app/?q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      }
+    ]
+  }
+  </script>
 </head>
+
 <body>
   <nav class="navbar">
     <div class="logo"><img src="assets/images/nextECA.png" alt="nextECA Logo" /></div>
@@ -78,3 +136,4 @@
   <script src="script.js"></script>
 </body>
 </html>
+
