@@ -1,5 +1,18 @@
 [
   {
+    "title": "𝐒𝐎𝐋𝐕𝐈𝐎 𝐀𝐈 𝐇𝐚𝐜𝐤𝐚𝐭𝐡𝐨𝐧 𝟐𝟎𝟐𝟓",
+    "description": "SOLVIO is an Al hackathon where university students, tech professionals, and startup founders work together to solve real-world challenges posed by various industries",
+    "image": "assets/images/solvio-nextECA.jpg",
+    "deadline": "10-10-2025",
+    "eventDate": "15-11-2025 to 16-11-2025",
+    "eligibility": "Must be exactly 4 team members (including the team leader) Note: At least one female team member must have a STEM background",
+    "tags": ["SOLVIO", "National", "𝐒𝐎𝐋𝐕𝐈𝐎 𝐀𝐈 𝐇𝐚𝐜𝐤𝐚𝐭𝐡𝐨𝐧 𝟐𝟎𝟐𝟓", "Idea to Impact", "AI", "HACKATHON"],
+    "link": "https://solvio.sheba-platform.xyz/",
+    "category": "hackathon",
+    "country": "Bangladesh",
+    "location": "local"
+  },
+  {
     "title": "bdapps Innovation Summit 2025",
     "description": "bdapps Innovation Summit 2025 is not just about ideas — it’s about rewarding innovation that can shape Bangladesh’s digital future. Whether you're aiming for the top or breaking into the top 10, there’s a prize waiting for you. Turn your app idea into impact — and income!",
     "image": "https://bdappsinnovationsummit.com/img/Dark-Background.png",
@@ -65,3 +78,4 @@
     "location": "local"
   }
 ]
+
