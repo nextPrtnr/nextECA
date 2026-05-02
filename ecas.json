@@ -1,5 +1,18 @@
 [
   {
+  "title": "The Infinity AI BuildFest 2026",
+  "description": "The Infinity AI BuildFest 2026 is an AI-focused hackathon organized by CloudCamp Bangladesh. It brings together students, developers, and innovators to build real-world AI solutions through team collaboration. Participants work over an extended period to develop impactful projects and compete on a global scale. next ECA has joined them as Official Club Partner.",
+  "image": "assets/images/infinity-ai-buildfest.png",
+  "deadline": "15-05-2026",
+  "eventDate": "12-06-2026",
+  "eligibility": "Students, developers, and AI enthusiasts",
+  "tags": ["Hackathon", "AI", "BuildFest", "CloudCamp", "Innovation", "Technology"],
+  "link": "https://cloudcampbd.com/clubs?ref=CLUB-FBBC350B",
+  "category": "Hackathon",
+  "country": "Bangladesh",
+  "location": "International"
+ },
+  {
     "title": "The Global Exposure by PhotoZone Graphy",
     "description": "The Global Exposure is an international photography contest organized by PhotoZone Graphy, open to participants from all around the world. With no fixed theme, photographers are free to submit images from any category or style. All submissions will be carefully reviewed and filtered by an international jury panel. Participants and winners will receive digital certificates.",
     "image": "assets/images/GE.png",
